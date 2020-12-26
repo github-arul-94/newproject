@@ -1,0 +1,7 @@
+Notes :
+
+ 1 ) please check internet connection for active the jquery plugins.
+
+ 2 ) Please run url :  http://localhost/nic/index.php
+
+ 3 ) Database : nic_interview.sql
